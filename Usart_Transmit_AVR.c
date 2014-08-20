@@ -53,9 +53,8 @@ int main()
 
 	 while (1)
 	 {
-		printf("AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz\n");
 		printf("Hello, world!\n");
-		 _delay_ms(1000);
+		_delay_ms(1000);
 	 }
 	 
 	 return 0;
